@@ -153,7 +153,7 @@
     "@algolia/transporter" "4.17.2"
 
 "@algolia/events@^4.0.1":
-  version "4.0.1"
+  version "4.0.0"
   resolved "https://registry.yarnpkg.com/@algolia/events/-/events-4.0.1.tgz#fd39e7477e7bc703d7f893b556f676c032af3950"
   integrity sha512-FQzvOCgoFXAbf5Y6mYozw2aj5KCJoA3m4heImceldzPSMbdyS4atVjJzXKMsfX3wnZTFYwkkt8/z8UesLHlSBQ==
 
